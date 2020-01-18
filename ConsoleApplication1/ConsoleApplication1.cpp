@@ -6,7 +6,7 @@
 using namespace std;
 
 void main() {
-	
+
 	   
 	class Time {
 	private:

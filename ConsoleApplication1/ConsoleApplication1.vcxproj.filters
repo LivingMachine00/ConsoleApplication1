@@ -21,9 +21,15 @@
     <ClCompile Include="Class1.cpp">
       <Filter>File di origine</Filter>
     </ClCompile>
+    <ClCompile Include="Class2.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Class1.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="Class2.h">
       <Filter>File di intestazione</Filter>
     </ClInclude>
   </ItemGroup>
